@@ -1,0 +1,20 @@
+# API keys and environment variables
+.env
+.env.*
+
+# Python environment
+myenv/
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Database
+*.sqlite
+*.db
+
+# System files
+.DS_Store
+Thumbs.db
